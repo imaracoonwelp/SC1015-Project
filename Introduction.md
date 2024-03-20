@@ -41,9 +41,9 @@ This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial I
 
 ## Contributors
 
-- @chesterchiow - Neural Networks, Data Resampling, Data Extraction
-- @TCaken - Logistic Regression
-- @coolcoolwhat - Data Visualization, Data Extraction
+- Chester Chiow (@chesterchiow) - Neural Networks, Data Resampling, Data Extraction
+- Eng Yi Xuan (@imaracoonwelp) - Logistic Regression
+- Le Xuan Tung (@Lexuantunglego2005) - Data Visualization, Data Extraction
 
 ## References
 
