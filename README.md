@@ -1,19 +1,22 @@
-# SC1015 Mini Project: 
+# SC1015 Mini Project 
 
-## About
+## Introduction
 
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on movies from [The Movie Database APIs](https://developers.themoviedb.org/3/getting-started). For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence). 
 
+## Problem Definition
+
+- How can music artists engineer their music to increase the popularity of their songs?
+- How can we predict the popularity of a music track based on its audio features?
+- Are we able to predict if a movie is good (rating above 7.2) based on its attributes?
+- Which model would be the best to predict it?
+
+## Content
 1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
 2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
 3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
 4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
 5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
-
-## Problem Definition
-
-- Are we able to predict if a movie is good (rating above 7.2) based on its attributes?
-- Which model would be the best to predict it?
 
 ## Models Used
 
