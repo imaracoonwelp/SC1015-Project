@@ -2,12 +2,14 @@
 
 ## Introduction
 
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence). 
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence).  In the highly competitive music industry, music artists and producers sought to create music that will appeal to the broad audience. One aspect of music production is audio engineering. By analysing and understanding the audio features in popular songs today, music producers will be able to make more informed decisions and increase the likelihood of success of their songs. 
+
+Spotify is a digital music platform that has over 100 million tracks and more than 602 million users worldwide. We will use the dataset from Kaggle, ["Most Streamed Spotify Songs 2023"](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data) for our project.
 
 ## Problem Definition
 
 - How can music artists engineer their music to increase the popularity of their songs?
-- How can we predict the popularity of a music track based on its audio features?
+- How can we predict the popularity of a music track in spotify based on its audio features?
 - Are we able to predict if a movie is good (rating above 7.2) based on its attributes?
 - Which model would be the best to predict it?
 
