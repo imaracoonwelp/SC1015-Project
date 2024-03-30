@@ -4,7 +4,7 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). In 2021, transportation represented the largest segement, contributing 29% of the overall greenhouse gas emissions in the United States. Within this sector, light-duty vehicles alone were responsible for 58% of these emissions. This presents a significant concern as it has direct implications for environmental issues like climate change. Hence, we will investigate the various factors influencing CO2 emissions across different type of vehicles.
 
-We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles/data) for our project. It details the amount of CO2 emissions by different types of vehicles in Canada and is compiled from [Canada Government Official Open Data Website] (https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6).
+We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles/data) for our project. It details the amount of CO2 emissions by different types of vehicles in Canada and is compiled from [Canada Government Official Open Data Website](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6).
 
 ## Problem Definition
 
