@@ -8,9 +8,7 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 
 ## Problem Definition
 
-- How can music artists engineer their music to increase the popularity of their songs?
-- How can we predict the popularity of a music track in spotify based on its audio features?
-- Are we able to predict if a movie is good (rating above 7.2) based on its attributes?
+- Can we predict the CO2 emissions of a vehicle based on its specifications?
 - Which model would be the best to predict it?
 
 ## Content
@@ -46,9 +44,9 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 
 ## Contributors
 
-- Chester Chiow (@chesterchiow) - Neural Networks, Data Resampling, Data Extraction
-- Eng Yi Xuan (@imaracoonwelp) - Logistic Regression
-- Le Xuan Tung (@Lexuantunglego2005) - Data Visualization, Data Extraction
+- Chester Chiow (@chesterchiow) - Exploratory Data Analysis, Data Extraction
+- Eng Yi Xuan (@imaracoonwelp) - 
+- Le Xuan Tung (@Lexuantunglego2005) - 
 
 ## References
 
