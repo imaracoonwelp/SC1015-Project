@@ -13,10 +13,10 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 
 ## Content
 1. [Data Extraction](https://github.com/imaracoonwelp/SC1015-Project/blob/main/Data%20Preparation%20and%20Cleaning.ipynb)
-2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
-3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Neural Network](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+2. [Exploratory Data Analysis](https://github.com/imaracoonwelp/SC1015-Project/blob/main/Exploratory%20Data%20Analysis.ipynb)
+3. [One-Hot Encoding]()
+4. [Logistic Regression]()
+5. [Neural Network]()
 
 ## Models Used
 
