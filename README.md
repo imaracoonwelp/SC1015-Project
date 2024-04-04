@@ -45,7 +45,7 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 ## Contributors
 
 - Chester Chiow (@chesterchiow) - Exploratory Data Analysis, Data Extraction
-- Eng Yi Xuan (@imaracoonwelp) - 
+- Eng Yi Xuan (@imaracoonwelp) - One Hot Encoding, Linear Regression Model 
 - Le Xuan Tung (@Lexuantunglego2005) - 
 
 ## References
