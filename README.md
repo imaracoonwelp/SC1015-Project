@@ -8,7 +8,7 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 
 ## Problem Definition
 
-- Can we predict the CO2 emissions of a vehicle based on its specifications?
+- How can we predict the amount of CO2 emissions of a vehicle based on its specifications?
 - Which model would be the best to predict it?
 
 ## Content
@@ -34,12 +34,14 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 
 ## What did we learn from this project?
 
+- Collaborating using GitHub
+- Using Z-Score method to remove outliers
+
 - Handling imbalanced datasets using resampling methods and imblearn package
 - Neural Networks, Keras and Tensorflow
 - Logistic Regression from sklearn
 - API Usage
 - Other packages such as tqdm, json, requests
-- Collaborating using GitHub
 - Concepts about Precision, Recall, and F1 Score
 
 ## Contributors
