@@ -14,14 +14,15 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 ## Content
 1. [Data Extraction](https://github.com/imaracoonwelp/SC1015-Project/blob/main/Data%20Preparation%20and%20Cleaning.ipynb)
 2. [Exploratory Data Analysis](https://github.com/imaracoonwelp/SC1015-Project/blob/main/Exploratory%20Data%20Analysis.ipynb)
-3. [One-Hot Encoding]()
-4. [Logistic Regression]()
-5. [Neural Network]()
+3. [One-Hot Encoding](https://github.com/imaracoonwelp/SC1015-Project/blob/main/One%20Hot%20Encoding.ipynb)
+4. [Linear Regression Model](https://github.com/imaracoonwelp/SC1015-Project/blob/main/Linear%20Regression%20Models.ipynb)
+5. [Other Regression Models](https://github.com/imaracoonwelp/SC1015-Project/blob/main/Other%20Regression%20Models.ipynb)
 
 ## Models Used
 
-1. Logistic Regression
-2. Neural Networks
+1. Linear Regression
+2. Random Forest for Regression
+3. K-Nearest Neighbour Regression
 
 ## Conclusion
 
@@ -36,19 +37,20 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 
 - Collaborating using GitHub
 - Using Z-Score method to remove outliers
-
-- Handling imbalanced datasets using resampling methods and imblearn package
-- Neural Networks, Keras and Tensorflow
-- Logistic Regression from sklearn
-- API Usage
-- Other packages such as tqdm, json, requests
-- Concepts about Precision, Recall, and F1 Score
+- Identifying clusters in Joint Plots
+- One-Hot Encoding
+- Linear Regression
+- Random Forest for Regression 
+- Hyperparameters Tuning for Random Forest for Regression using GridSearchCV
+- K-Nearest Neighbour Regression
+- Hyperparameters Tuning for K-Nearest Neighbour Regression using GridSearchCV
+- Concepts on R^2 and MSE
 
 ## Contributors
 
-- Chester Chiow (@chesterchiow) - Exploratory Data Analysis, Data Extraction
+- Chester Chiow (@chesterchiow) - Data Preparation and Cleaning, Exploratory Data Analysis, K-Nearest Neighbour Regression Model
 - Eng Yi Xuan (@imaracoonwelp) - One Hot Encoding, Linear Regression Model 
-- Le Xuan Tung (@Lexuantunglego2005) - 
+- Le Xuan Tung (@Lexuantunglego2005) - Random Forest for Regression
 
 ## References
 
@@ -56,6 +58,9 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 - <https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6>
 - <https://www.epa.gov/greenvehicles/fast-facts-transportation-greenhouse-gas-emissions>
 - <https://www.way.com/blog/what-are-cylinders-in-a-car-all-you-need-to-know/>
+- <https://saturncloud.io/blog/linear-regression-with-sklearn-using-categorical-variables/#:~:text=To%20use%20categorical%20variables%20in,label%20encoding%2C%20and%20binary%20encoding.>
+- <https://towardsdatascience.com/random-forest-regression-5f605132d19d>
+- <https://www.analyticsvidhya.com/blog/2018/08/k-nearest-neighbor-introduction-regression-python/>
 
 
 
