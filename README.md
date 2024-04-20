@@ -26,15 +26,17 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 
 ## Conclusion
 
-- Number of Gears and CO2 Emission have low correlation value, does not have a linear relationship with CO2 Emission
-- Fuel Consumption and CO2 Emission have the highest correlation value
-- 
-- Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
-- Popularity of the casts and crews have higher linear correlation value with ratings
-- Resampling imbalanced data improved model performance especially on the minority class
-- Logistic Regression did not perform well with non-linearly correlated variables
-- Neural Networks along with SMOTEENN resampling method consistently did well in predicting good movies after 100 training attempts (around 72% accuracy, 70% recall)
-- Yes, it is possible to predict if a movie is good with acceptable amount of accuracy and recall
+### Data Driven Insights¶
+Drawing back to our problem definition, "How can we predict the amount of CO2 emission of a vehicle based on its specfications?".
+
+Firstly, yes, we can predict the amount of CO2 emission of a vehicle based on its specfications. We identified that Fuel Comsumption Comb is the most significant factor when determining the CO2 emissions. There is a significant correlation between Fuel Consumption Comb and both Cylinders and Engine Size. This suggests that Cylinders and Engine Size play important roles in determining fuel consumption, which subsequently affects CO2 emissions. Fuel type is also observed to have influence over the relationship between CO2 emissions and Fuel Consumption Comb. For the same amount of Fuel Consumption Comb, Diesel emits most CO2 while Ethanol emits the least.
+
+Secondly, to answer the question "How?", we applied various regression models to predict CO2 emissions. Among the models explored—Linear Regression, Random Forest for Regression, and K-Nearest Neighbor Regression—Random Forest for Regression emerged as the most effective. This model outperformed others by considering non-linear relationships and demonstrating lower susceptibility to overfitting.
+
+### Recommendations
+To minimise environmental impact, vehicle manufacturers should prioritize efforts to reduce fuel consumption, as it directly impacts CO2 emissions. To achieve this, they should focus on strategies to lower the number of cylinders and engine size in vehicles. Recognizing the significant impact of fuel type on emissions, manufacturers should also consider the choice of fuel in vehicle design.
+
+While reducing fuel consumption and considering fuel types are critical goals for minimizing environmental impact, vehicle manufacturers must also consider other factors such as vehicle performance, functionality, and intended use. Balancing these considerations is essential for designing vehicles that meet the diverse needs and preferences of consumers while also promoting sustainability.
 
 ## What did we learn from this project?
 
@@ -42,12 +44,12 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 - Using Z-Score method to remove outliers
 - Identifying clusters in Joint Plots
 - One-Hot Encoding
-- Linear Regression
+- Univariate and Multivariate Linear Regression
 - Random Forest for Regression 
-- Hyperparameters Tuning for Random Forest for Regression using GridSearchCV
+- Cross-Validation for Random Forest for Regression using GridSearchCV
 - K-Nearest Neighbour Regression
-- Hyperparameters Tuning for K-Nearest Neighbour Regression using GridSearchCV
-- Concepts on R^2 and MSE
+- Cross-Validation for K-Nearest Neighbour Regression using GridSearchCV
+- Concepts on R^2, Adjusted R^2 and MSE
 
 ## Contributors
 
