@@ -27,16 +27,18 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 ## Conclusion
 
 ### Data Driven Insights¶
+
 Drawing back to our problem definition, "How can we predict the amount of CO2 emission of a vehicle based on its specfications?".
 
-Firstly, yes, we can predict the amount of CO2 emission of a vehicle based on its specfications. We identified that Fuel Comsumption Comb is the most significant factor when determining the CO2 emissions. There is a significant correlation between Fuel Consumption Comb and both Cylinders and Engine Size. This suggests that Cylinders and Engine Size play important roles in determining fuel consumption, which subsequently affects CO2 emissions. Fuel type is also observed to have influence over the relationship between CO2 emissions and Fuel Consumption Comb. For the same amount of Fuel Consumption Comb, Diesel emits most CO2 while Ethanol emits the least.
+Firstly, yes, we can predict the amount of CO2 emission of a vehicle based on its specifications. We identified that Fuel Consumption Comb is the most significant factor to determine CO2 emissions. There is a strong correlation between Fuel Consumption Comb and both Cylinders and Engine Size. This suggests that Cylinders and Engine Size play important roles in determining fuel consumption, which subsequently affects CO2 emissions. Fuel type is also observed to have influence over the relationship between CO2 emissions and Fuel Consumption Comb. For the same amount of Fuel Consumption Comb, Diesel emits most CO2 while Ethanol emits the least.
 
-Secondly, to answer the question "How?", we applied various regression models to predict CO2 emissions. Among the models explored—Linear Regression, Random Forest for Regression, and K-Nearest Neighbor Regression—Random Forest for Regression emerged as the most effective. This model outperformed others by considering non-linear relationships and demonstrating lower susceptibility to overfitting.
+Secondly, to answer the question "How?", we applied various regression models to predict CO2 emissions. Among the models explored—Linear Regression, Random Forest for Regression, and K-Nearest Neighbor Regression—Random Forest for Regression emerged as the most effective. This model outperformed others by considering non-linear relationships and has lower susceptibility to overfitting.
 
 ### Recommendations
+
 To minimise environmental impact, vehicle manufacturers should prioritize efforts to reduce fuel consumption, as it directly impacts CO2 emissions. To achieve this, they should focus on strategies to lower the number of cylinders and engine size in vehicles. Recognizing the significant impact of fuel type on emissions, manufacturers should also consider the choice of fuel in vehicle design.
 
-While reducing fuel consumption and considering fuel types are critical goals for minimizing environmental impact, vehicle manufacturers must also consider other factors such as vehicle performance, functionality, and intended use. Balancing these considerations is essential for designing vehicles that meet the diverse needs and preferences of consumers while also promoting sustainability.
+While our project focused on understanding and mitigating CO2 emissions in vehicles, it's important to acknowledge that car performance is importance to consumers. Advocating for environmentally friendly changes might inadvertently impact a car's performance. Vehicle manufacturers should also consider factors such as vehicle performance, functionality, and intended use. Balancing these considerations is essential for designing vehicles that meet the diverse needs and preferences of consumers while also promoting sustainability.
 
 ## What did we learn from this project?
 
