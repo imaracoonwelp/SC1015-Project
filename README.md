@@ -12,6 +12,7 @@ We will use the dataset from Kaggle, ["CO2 Emission by Vehicles"](https://www.ka
 - Which model would be the best to predict it?
 
 ## Content
+For detailed walkthrough, please view the source code in order from:
 1. [Data Extraction](https://github.com/imaracoonwelp/SC1015-Project/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
 2. [Exploratory Data Analysis](https://github.com/imaracoonwelp/SC1015-Project/blob/main/Exploratory%20Data%20Analysis.ipynb)
 3. [One-Hot Encoding](https://github.com/imaracoonwelp/SC1015-Project/blob/main/One%20Hot%20Encoding.ipynb)
